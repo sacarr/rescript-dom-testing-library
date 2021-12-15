@@ -1,6 +1,6 @@
 @@coverage(exclude_file)
 
-open GlennslRescriptJest.Jest
+open Jest
 open Webapi.Dom
 open Webapi.Dom.Element
 
